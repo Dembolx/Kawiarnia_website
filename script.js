@@ -28,20 +28,13 @@ const menuData = [
         description:
           "Espresso with chocolate syrup, steamed milk, and whipped cream",
         price: 4.75,
-        image: "https://example.com/mocha.jpg",
+        image: "assets/coffee/Mocha.jpg",
       },
       {
         name: "Americano",
         description: "Espresso diluted with hot water for a milder flavor",
         price: 3.5,
-        image: "https://example.com/americano.jpg",
-      },
-      {
-        name: "Flat White",
-        description:
-          "Espresso with velvety steamed milk and a thin layer of microfoam",
-        price: 4.25,
-        image: "https://example.com/flat-white.jpg",
+        image: "assets/coffee/Americano.jpg",
       },
     ],
   },
@@ -71,13 +64,7 @@ const menuData = [
         name: "Caesar Salad",
         description: "Romaine lettuce, croutons, parmesan, and Caesar dressing",
         price: 9.0,
-        image: "https://example.com/caesar-salad.jpg",
-      },
-      {
-        name: "Quiche Lorraine",
-        description: "Savory pie with bacon, cheese, and eggs",
-        price: 8.0,
-        image: "https://example.com/quiche-lorraine.jpg",
+        image: "assets/Food/Caesar_Salad.jpg",
       },
     ],
   },
@@ -108,13 +95,7 @@ const menuData = [
         description:
           "Warm apple pie with a flaky crust and a scoop of vanilla ice cream",
         price: 6.0,
-        image: "https://example.com/apple-pie.jpg",
-      },
-      {
-        name: "Macarons",
-        description: "Assorted French macarons in various flavors",
-        price: 5.5,
-        image: "https://example.com/macarons.jpg",
+        image: "assets/Desserts/Apple_Pie.jpg",
       },
     ],
   },
